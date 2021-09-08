@@ -1,8 +1,8 @@
-package com.main.array.cyclicallyrotate;
+package com.main.array.rotate;
 
 import java.util.Arrays;
 
-public class CyclicallyRotateByOne {
+public class RotateByOne {
 
     static int arr[] = new int[]{2, 9, 3, 5, 7};
 

@@ -1,4 +1,4 @@
-package com.main;
+package com.main.demo;
 
 class Employee{} /*{
     private String name;
